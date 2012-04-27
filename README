@@ -1,0 +1,1 @@
+I wrote three kind of KMP search.In fact,they are different in their overlay function,I mean the way you get the next array. 
